@@ -1,4 +1,4 @@
 # Cybertech
  
-Source code used in Robotics competition "Cybertech 2016" of ETSII UPM\n
+Source code used in Robotics competition "Cybertech 2016" of ETSII UPM.
 A maze-solver robot and line-follower robot was built, developed and tested with this code.
